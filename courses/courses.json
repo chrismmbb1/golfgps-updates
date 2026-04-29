@@ -1,0 +1,17 @@
+{
+  "courses": [
+    { "filename": "Deerfield_NorthSouthEast.csv", "name": "Deerfield N/S/E",   "version": 1 },
+    { "filename": "Durand_Eastman.csv",           "name": "Durand Eastman",     "version": 1 },
+    { "filename": "Eagle_Vale.csv",               "name": "Eagle Vale",         "version": 1 },
+    { "filename": "Farview.csv",                  "name": "Farview",            "version": 1 },
+    { "filename": "Genesee_Valley_North.csv",     "name": "Genesee Valley N",   "version": 1 },
+    { "filename": "Genesee_Valley_South.csv",     "name": "Genesee Valley S",   "version": 1 },
+    { "filename": "Home_Test.csv",                "name": "Home Test",          "version": 1 },
+    { "filename": "Lakeshore.csv",                "name": "Lakeshore",          "version": 1 },
+    { "filename": "Ontario_Country_Club.csv",     "name": "Ontario CC",         "version": 1 },
+    { "filename": "Parkview_Fairways.csv",        "name": "Parkview Fairways",  "version": 1 },
+    { "filename": "Shadow_Lake.csv",              "name": "Shadow Lake",        "version": 1 },
+    { "filename": "Shore_Acres.csv",              "name": "Shore Acres",        "version": 1 },
+    { "filename": "Twin_Hills.csv",               "name": "Twin Hills",         "version": 1 }
+  ]
+}

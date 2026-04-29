@@ -1,0 +1,7 @@
+{
+  "firmware_version": "1.0.0",
+  "firmware_url": "https://chrismmbb1.github.io/golfgps-updates/firmware/firmware.bin",
+  "firmware_size": 0,
+  "courses_index": "https://chrismmbb1.github.io/golfgps-updates/courses/courses.json",
+  "release_notes": "Initial release"
+}
